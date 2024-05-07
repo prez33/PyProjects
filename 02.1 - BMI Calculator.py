@@ -6,7 +6,7 @@ print('I am the BMI Wizard.')
 time.sleep(.5)
 print('Answer my questions and I will guess your BMI.')
 
-#This calculates the height whether it is meters or inches
+#This calculates the height, whether it is meters or inches.
 while True:
     try:
         y = input('Do you know your height in meters? (Yes or No)\n').lower()
@@ -24,7 +24,7 @@ while True:
         print('Height must be a number')
         time.sleep(1)
 
-#Prints 2 decimal value for user to see their height in meters (pointless I guess if you input your height in meters)
+#Prints 2 decimal values for user to see their height in meters (pointless, I guess if you input your height in meters)
 print('*magic dust* You are ' + "{:.2f}".format(height) + 'm tall!')
 time.sleep(1)
 
@@ -46,10 +46,10 @@ while True:
         print('Height must be a number')
         time.sleep(1)
 
-#Once again same statement for weight (still pointless if you use metric) possibly funny given the introduction
+#Once again, same statement for weight (still pointless if you use metric), possibly funny given the introduction
 print('The Great Wizard cannot be wrong! You are ' + "{:.2f}".format(weight) + 'kg!')
 
 time.sleep(1)
 print('This means your BMI is... ')
 time.sleep(2)
-print(str(weight / height ** 2)[:4])
+print("{:.1f}".format(weight / height ** 2) + 'kg/m2')
