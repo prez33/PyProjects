@@ -1,8 +1,14 @@
 # PyProjects
 Random Python projects as I learn how to write and debug code. 
 
+# -- Day 001/100 --
+
 # Band Name Generator
 This introductory project uses basic information about the user to generate a potential band name. 
+
+
+# -- Day 002/100 --
+
 
 # BMI Wizard
 This project is a simple BMI calculator with a bit of personality.
@@ -16,6 +22,14 @@ This project uses concepts similar to the BMI Wizard's to calculate the tip and 
 
 - The number of people splitting the check refers to those in addition to the user
 
+
+# -- Day 003/100 --
+
+
 # Choose Your Own Adventure (Coming Soon)
+
+# Odd or Even
+This is a simple program to check if a number is odd or even
+  -Using the modulo, the program calculates if there is a remainder of 0 after dividing the input by 2
 
   
