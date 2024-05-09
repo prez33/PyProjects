@@ -15,4 +15,7 @@ This project is a simple BMI calculator with a bit of personality.
 This project uses concepts similar to the BMI Wizard's to calculate the tip and total amount owed. 
 
 - The number of people splitting the check refers to those in addition to the user
+
+# Choose Your Own Adventure (Coming Soon)
+
   
