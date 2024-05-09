@@ -30,6 +30,6 @@ This project uses concepts similar to the BMI Wizard's to calculate the tip and 
 
 # Odd or Even
 This is a simple program to check if a number is odd or even
-  -Using the modulo, the program calculates if there is a remainder of 0 after dividing the input by 2
+  - Using the modulo, the program calculates if there is a remainder of 0 after dividing the input by 2
 
   
