@@ -34,7 +34,7 @@ This is a simple program to check if a number is odd or even
 
 # To Leap Year or Not to Leap Year
 This is from day 3 of working with if/else statements. In the course, they use it as a nested loop, but I wanted to try to achieve the same result without copying. 
-I also wanted to make the program with fewer lines of code. 
-  The divisible by 4 but not by 100 was a confusing condition in the prompt, as 100 itself is divisible by 4, and leap years are every 4 years.
+  - I also wanted to make the program with fewer lines of code. 
+  - The divisible by 4 but not by 100 was a confusing condition in the prompt, as 100 itself is divisible by 4, and leap years are every 4 years.
 
   
