@@ -64,7 +64,7 @@ while True:
         break
 #     
 # This is the hidden loop    
-    elif response == 'stay':
+    elif response == 'stay' or response == 'wait':
         print("""
               ______
             / |     |
@@ -139,9 +139,9 @@ while True:
         
 if 'in' in response or 'down' in response and 'hole' in response:
     print('You found a tunnel out of the room and escaped!')
-elif response == 'stay':
+elif response == 'stay' or response == 'wait':
     print('The president enters through the locked door and congratulates you on passing the test.')
     time.sleep(2)
-    input('Are you ready for your first mission? (Yes or No)\n')
+    input('Are you ready for your first mission? (Yes or Hell Yea!)\n')
 else:
     open_chest()
