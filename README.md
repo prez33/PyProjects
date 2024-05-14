@@ -26,7 +26,12 @@ This project uses concepts similar to the BMI Wizard's to calculate the tip and 
 # -- Day 003/100 --
 
 
-# Choose Your Own Adventure (Coming Soon)
+# Choose Your Adventure 
+Fun little, choose your adventure based on a TV show. 
+  - There are no hints
+  - The only way to move on is to answer correctly
+  - There is a bonus loop and an alternate ending if you answer in certain ways.
+HAVE FUN!
 
 # Odd or Even
 This is a simple program to check if a number is odd or even
